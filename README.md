@@ -11,7 +11,7 @@ Ushbu repozitoriyda mening JavaScript loyihalarim joylashgan. Har bir loyiha alo
 ## 📁 Loyiha Ro'yxati
 
 | # | Loyiha nomi | Texnologiyalar | Demo |
-|--|-------------|--------|----------------|------|
+|---|-------------|----------------|------|
 | 1 | `Paint Project` | Beginner | JavaScript, HTML, CSS | [Demo](https://azyk747.github.io/js-projects/paint-project/) |
 | 2 | ... | ... | ... | ... |
 
@@ -19,9 +19,9 @@ Ushbu repozitoriyda mening JavaScript loyihalarim joylashgan. Har bir loyiha alo
 
 ```bash
 # Repozitoriyani klonlash
-git clone https://github.com/azyk747/javascript-projects.git
+git clone https://github.com/azyk747/js-projects.git
 
 # Loyihalar papkasiga o‘tish
-cd javascript-projects
+cd js-projects
 
 # Har bir loyiha alohida papkada joylashgan
