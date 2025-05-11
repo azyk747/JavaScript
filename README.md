@@ -11,9 +11,9 @@ Ushbu repozitoriyda mening JavaScript loyihalarim joylashgan. Har bir loyiha alo
 ## 📁 Loyiha Ro'yxati
 
 | # | Loyiha nomi | Level | Texnologiyalar | Demo |
-|---|-------------|----------------|------|
+|---|-------------|-------|----------------|------|
 | 1 | Paint Project | `beginner` | `HTML`, `CSS`, `JavaScript` | [Demo](https://azyk747.github.io/js-projects/paint-project/) |
-| 2 | ... | ... | ... | ... |
+| 2 | ...           | ...        | ...                         | ...                                                          |
 
 ## 🚀 Ishga Tushurish
 
